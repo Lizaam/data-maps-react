@@ -8,7 +8,7 @@ To begin, use `npm install` to install all dev dependancies.
 
 To clone respository, run following command 
 
-`git clone https://github.com/Lizaam/react-maps-app.git <br /> cd react-maps-app
+`git clone https://github.com/Lizaam/data-maps-react.git <br /> cd react-maps-app
 `
 
 To run development environment, run following command
